@@ -1,6 +1,5 @@
 const express = require('express');
 
-let x=21;
 const app = express();
 
 app.get('/', (req, res) => {
